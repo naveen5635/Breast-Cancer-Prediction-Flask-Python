@@ -1,6 +1,6 @@
 # Breast-Cancer-Prediction-Flask-Python
-# Created By : Naveen Joy 
-# E-Mail : naveenjoy300@gmail.com
+Created By : Naveen Joy 
+E-Mail : naveenjoy300@gmail.com
 # Steps to run:
 1-You need to install flask framework for run this project.
 2-open your cmd and type this "python app.py"
